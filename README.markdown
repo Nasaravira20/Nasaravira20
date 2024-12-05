@@ -42,7 +42,7 @@ I’m a Bachelor of Technology student specializing in AI and Data Science, tack
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nasaravira20&custom_title=Nasaravira%20's%20Contribution%20Graph&theme=chartreuse-dark" /></a>
+	<a href="https://github.com/Nasaravira20"><img alt="Arivarasan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nasaravira20&custom_title=Nasaravira%20's%20Contribution%20Graph&theme=chartreuse-dark" /></a>
   <br/>
 
 
