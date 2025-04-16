@@ -14,7 +14,7 @@ I’m a Bachelor of Technology student specializing in AI and Data Science, tack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)&emsp; ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)&emsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&emsp;
 
  ### 👉 Backend Development
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)&emsp; ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)&emsp; ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)&emsp; ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)&emsp;
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)&emsp; ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)&emsp; ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)&emsp; 
  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)&emsp; 
 
  ### 👉 Databases & Cloud Hosting
